@@ -130,7 +130,7 @@
     function initialize_google_map() {
         var myLatlng = new google.maps.LatLng(get_latitude, get_longitude);
         var mapOptions = {
-            zoom: 14,
+            zoom: 11,
             scrollwheel: false,
             center: myLatlng
         };
