@@ -1110,7 +1110,7 @@ Media queries
 
 
 section#products img {
-    width: 260px;
+    height: 200px;
 }
 
 section#products h4 {
