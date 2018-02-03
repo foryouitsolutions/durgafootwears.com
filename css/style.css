@@ -1112,3 +1112,8 @@ Media queries
 section#section-services img {
     width: 260px;
 }
+
+section#section-services h4 {
+
+  	padding-top: 20px;
+}
