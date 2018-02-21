@@ -611,6 +611,7 @@ About
 	-webkit-border-radius:50%;
 		-moz-border-radius:50%;
 			border-radius:50%;
+	height: 130px;
 }
 
 .team-detail h4 {
